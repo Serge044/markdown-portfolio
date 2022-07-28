@@ -14,7 +14,9 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+* Step 1
+* Step 2
+* Step 3
 
 <br>
 
