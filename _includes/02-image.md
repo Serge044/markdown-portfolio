@@ -1,1 +1,1 @@
-[Serge 8 bit photo](./Users/serhiima/Desktop/Serge-8bit.png)
+[Homer](https://media.giphy.com/media/XQHN4wfaAcgTe/giphy.gif)
