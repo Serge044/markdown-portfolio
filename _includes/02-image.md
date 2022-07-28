@@ -1,1 +1,1 @@
-[Homer](https://media.giphy.com/media/XQHN4wfaAcgTe/giphy.gif)
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
