@@ -16,6 +16,6 @@ This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 <details>
   <summary>Title</summary>
 
-and some dropdown texe ;)
+and some dropdown text ;)
 
 </details>
